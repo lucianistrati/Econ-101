@@ -22,3 +22,5 @@ Publicly available quarterly macroeconomic data for multiple countries:
 - Edge features: policy variables (e.g. tax rates, interest rates, etc.), ‘environment’ variables (e.g. GDP growth, inflation, country ID, etc.), impact
 
 Proposal: use GNN to learn the impact of economic policies in order to predict (simulate) the effects of planned policy changes
+
+Datasets source: https://sdw.ecb.europa.eu/browse.do?node=9691132
