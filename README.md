@@ -1,19 +1,14 @@
 # Econ 101: National Accounts modelling with graphnets
 
-NFC
-Non-financial corporations
+- NFC: Non-financial corporations
 
-FC
-Financial corporations
+- FC: Financial corporations
 
-GG
-General government
+- GG: General government
 
-HH+NPISH
-Households + NPISH
+- HH + NPISH: Households + NPISH
 
-RW
-Rest of the world
+- RW: Rest of the world
 
 
 Publicly available quarterly macroeconomic data for multiple countries:
