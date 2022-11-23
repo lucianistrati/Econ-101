@@ -18,3 +18,5 @@ Datasets sources:
 - ECB website: https://sdw.ecb.europa.eu/browse.do?node=9691132
 - European Central Bank datasets from huggingface: https://huggingface.co/datasets/ecb
 - ECB interest rates: https://www.kaggle.com/datasets/addasdaw/european-central-bank-interest-rates-19992021
+
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
